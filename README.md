@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Employment
-- Instructor at UW Madison GIS Professional Program
+- Instructor at UW Madison GIS Professional Program [UW Madison Geography](https://geography.wisc.edu/gis/)
 
 
 ## Current Projects
