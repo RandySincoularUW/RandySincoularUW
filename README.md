@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-🗺️
-I am working on putting some GIS applications into AWS
+## Employment
+- Instructor at UW Madison GIS Professional Program
+
+
+## Current Projects
+- 🗺️ I am working on putting some GIS applications into AWS
 
 <!--
 **RandySincoularUW/RandySincoularUW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
